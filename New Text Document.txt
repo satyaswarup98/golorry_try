@@ -1,3 +1,0 @@
-REACT_APP_CLIENT_ID=68230c3431e64530be972fb38c16748f
-REACT_APP_AUTHORIZE_URL=https://accounts.spotify.com/authorize
-REACT_APP_REDIRECT_URL=http://localhost:3000/redirect
